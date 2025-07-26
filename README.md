@@ -1,10 +1,10 @@
-# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+### Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This project performs **data cleaning** and **exploratory data analysis (EDA)** on the classic [Titanic dataset from Kaggle](https://www.kaggle.com/c/titanic). The aim is to understand the factors that influenced passenger survival during the Titanic disaster.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Load and understand the structure of the Titanic dataset
 - Clean the data (handle missing values, drop irrelevant features)
@@ -14,7 +14,7 @@ This project performs **data cleaning** and **exploratory data analysis (EDA)** 
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `train.csv` – training data from Kaggle
 - `test.csv` – test data for predictions (not directly used in EDA)
@@ -24,7 +24,7 @@ This project performs **data cleaning** and **exploratory data analysis (EDA)** 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python (Pandas, NumPy)
 - Matplotlib and Seaborn for visualization
@@ -32,7 +32,7 @@ This project performs **data cleaning** and **exploratory data analysis (EDA)** 
 
 ---
 
-## 📊 Key Insights from EDA
+## Key Insights from EDA
 
 - **Gender**: Females had a much higher survival rate than males.
 - **Passenger Class**: Higher-class passengers (1st class) were more likely to survive.
@@ -42,7 +42,7 @@ This project performs **data cleaning** and **exploratory data analysis (EDA)** 
 
 ---
 
-## 📸 Sample Visualizations
+##  Sample Visualizations
 
 - Survival countplot
 - Survival by gender and class
